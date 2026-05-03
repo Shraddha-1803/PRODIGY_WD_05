@@ -2,6 +2,8 @@
 
 A responsive weather web application built using **HTML, CSS, and JavaScript** that fetches real-time weather data using the OpenWeather API.
 
+---
+
 ## Features
 
 - Search weather by city name
@@ -16,12 +18,16 @@ A responsive weather web application built using **HTML, CSS, and JavaScript** t
 - Responsive and modern UI
 - Loading states and error handling
 
+---
+
 ## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 - OpenWeather API
+
+---
 
 ## Project Structure
 
@@ -32,6 +38,8 @@ weather-app/
 │── script.js
 │── README.md
 ```
+
+---
 
 ## Setup Instructions
 
@@ -70,6 +78,8 @@ const apiKey = "your_actual_api_key";
 
 Open `index.html` in browser.
 
+---
+
 ## API Used
 
 OpenWeather Current Weather API
@@ -77,9 +87,7 @@ OpenWeather Current Weather API
 Documentation:
 https://openweathermap.org/current
 
-## Screenshots
-
-Add project screenshots here after deployment.
+---
 
 ## Future Improvements
 
@@ -87,6 +95,8 @@ Add project screenshots here after deployment.
 - Dark/light mode toggle
 - Weather by country code
 - Animated weather backgrounds
+
+---
 
 ## Author
 
